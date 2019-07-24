@@ -1,4 +1,3 @@
-# Contents
 
 ## A bit on our portable stage
 
@@ -18,8 +17,6 @@
 * Appalachian
 * Old Timey music
 
-# To Do
-
 ## Buy a domain-name
 - restless_soles.org.uk or .co.uk?
 - how much do we think?
@@ -32,3 +29,4 @@
 
 ## Recover Twitter Account
 * With Sara
+* Password reset request sent to Steph
