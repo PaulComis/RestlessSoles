@@ -1,0 +1,4 @@
+[submodule "twitter-timeline"]
+	path = _includes/modules/twitter_timeline
+	url = https://github.com/liquid-utilities/twitter-timeline.git
+	branch = master

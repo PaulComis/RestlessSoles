@@ -1,10 +1,19 @@
-# Restless Soles
-## Appalachian Dance Team
+Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
 
-Website Coming Soon
+Restless Soles are a dance side formed in 2014 and ...
 
-New season of practices starts:
+We practice from 8pm to 10pm on Monday nights at Little Eaton Village Hall (DE21 5EA)
 
-10th Sept 2019
 
-Little Eaton Village Hall
+Follow us on social media:
+<!---
+<a href="https://twitter.com/Restless_soles" target="_blank"><img src="assets/Twitter_Social_Icon_Rounded_Square_Color.png" width="50"></a>
+--->
+<a href="https://www.facebook.com/Restless-Soles-Appalachian-Dance-Team-696104067248536/" target="_blank"><img src="assets/f_logo_RGB-Blue_250.png" width="50"></a>
+
+<!---
+<a class="twitter-timeline"
+  href="https://twitter.com/Restless_soles">
+Tweets by @restless_soles
+</a>
+--->
