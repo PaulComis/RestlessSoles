@@ -5,7 +5,7 @@ Restless Soles are an Appalchian dance side formed in 2014 who regularly perform
 We practice from 8pm to 10pm on Monday nights at [Little Eaton Village Hall (DE21 5EA)](https://www.littleeatonparishcouncil.org.uk/little-eaton-village-hall.html)
 
 Event! - We are hosting an Old-Time Dance party and music workshops:
-<img src="pics/20200307poster.jpg">
+<a href="https://www.facebook.com/events/434815424067074/" target="_blank"><img src="pics/20200307poster.jpg"></a>
 
 Follow us on social media:
 <!---
