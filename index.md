@@ -13,7 +13,7 @@ this site is being built...[here is my to-do list](idea.md)
 Follow us on:
 <a href="https://twitter.com/Restless_soles" target="_blank"><img src="assets/Twitter_Social_Icon_Rounded_Square_Color.png" width="50"></a>
 <a href="https://www.facebook.com/Restless-Soles-Appalachian-Dance-Team-696104067248536/" target="_blank"><img src="assets/f_logo_RGB-Blue_250.png" width="50"></a>
-
+<a href="https://www.youtube.com/channel/UCfOPA7D8IH5L1kLlB47jRFg" target="_blank"><img src="assets/yt_logo_rgb_light.png" height="50"></a>
 <!---
 <a class="twitter-timeline"
   href="https://twitter.com/Restless_soles">
