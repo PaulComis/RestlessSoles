@@ -1,6 +1,6 @@
 Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
 
-Restless Soles are an Appalchian dance side formed in 2014 who regularly perform around Derbyshire.
+Restless Soles are an Appalchian dance side formed in 2009 who regularly perform around Derbyshire.
 
 Ordinarily we practice from 8pm to 10pm on Monday nights at [Little Eaton Village Hall (DE21 5EA)](https://www.littleeatonparishcouncil.org.uk/little-eaton-village-hall.html)
 
