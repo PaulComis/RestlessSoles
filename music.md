@@ -2,7 +2,7 @@ Dance or play along to some of the tunes:
 
 - [ Lucky at Christmas / Restless Bells](media/RestlessBellsAndTaps.Mp3)
 
-Our festive recording of the Dance called "Lucky"
+Our festive recording of the Dance called "Lucky". Normally played to the tune of "Oh, Dem Golden Slippers", this verion has a little extra jingle.
 
 - [Mississippi Sawyer](media/MississippiSawyer.Mp3)
 
