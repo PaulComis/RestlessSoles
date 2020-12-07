@@ -1,6 +1,6 @@
 Dance or play along to some of the tunes:
 
-- [ Lucky at Christmas / Restless Bells](media/RestlessBellsAndTaps.mp3)
+- [ Lucky at Christmas / Restless Bells](media/RestlessBellsAndTaps.Mp3)
 
 Our festive recording of the Dance called "Lucky"
 
