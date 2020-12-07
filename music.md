@@ -2,6 +2,10 @@
 
 Dance or play along to some of the tunes:
 
+- [ Lucky at Christmas / Restless Bells](media/RestlessBellsAndTaps.mp3)
+
+Our festive recording of the Dance called "Lucky"
+
 - [Mississippi Sawyer](media/MississippiSawyer.Mp3)
 
 The dance for which is called 'Liberty'.

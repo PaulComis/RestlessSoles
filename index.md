@@ -10,7 +10,9 @@ Event! - We are hosting an Old-Time Dance party and music workshops:
 <a href="https://www.facebook.com/events/434815424067074/" target="_blank"><img src="pics/20200307poster.jpg"></a>
 --->
 
-Follow us on social media:
+You can listen or play along to some of our [music here](music.html)
+
+Or follow us on social media:
 <!---
 <a href="https://twitter.com/Restless_soles" target="_blank"><img src="assets/Twitter_Social_Icon_Rounded_Square_Color.png" width="50"></a>
 --->
