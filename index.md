@@ -1,4 +1,4 @@
-![Restless Souls At Newark Castle Grounds](assets/rsoles_title.JPG)
+![Restless Souls At Newark Castle Grounds](assets/rsoles_title.JPG "A number of the Restless Soles dance side similing during a lovely sunny dance out at Newark Traditions Folk Festival")
 
 Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
 
