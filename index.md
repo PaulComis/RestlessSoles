@@ -1,10 +1,5 @@
 ![Restless Souls At Newark Castle Grounds](assets/rsoles_title.JPG "A number of the Restless Soles dance side similing during a lovely sunny dance out at Newark Traditions Folk Festival")
 
----
-# New Dance Out!
-
-## We will performing on Sunday at the Derby Folk Weekend outside the Bookcafe on Corn Market
----
 
 Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
 
