@@ -7,8 +7,8 @@ Nothing planned... Follow us on [Facebook](https://www.facebook.com/restlesssole
 
 | Date | Event | Location | More Details |
 | --- | --- | --- | --- |
-| 18th May 2025 | Moira Canal Festival | Moira Furnace, Furnace Lane, Moira, DE12 6AT | https://www.moiracanalfestival.com/ |
-| 11th - 12th October | Derby Folk Festival | Derby City Centre | https://www.derbyfolkfestival.co.uk/|
+| 18th May 2025 | Moira Canal Festival | [Moira Furnace, Furnace Lane, Moira, DE12 6AT](https://www.google.com/maps/place/Moira+Furnace+Museum+and+Country+Park/@52.732875,-1.5355146,284m/data=!3m1!1e3!4m6!3m5!1s0x4879fe567a9741f3:0x8f26e964203bfe78!8m2!3d52.73296!4d-1.5358624!16zL20vMGR6cWJx?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D) | [Festival Website](https://www.moiracanalfestival.com/) |
+| 11th - 12th October 2025| Derby Folk Festival | Derby City Centre | [Festival Website](https://www.derbyfolkfestival.co.uk/)|
 
 # Past Shows
 
