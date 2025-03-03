@@ -1,13 +1,19 @@
+Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
+
 ![Restless Souls At Newark Castle Grounds](assets/rsoles_title.JPG "A number of the Restless Soles dance side similing during a lovely sunny dance out at Newark Traditions Folk Festival")
 
+**NEWS First two dance outs of 2025 arranged for Moira Canal Festival and the Derby Folk Festival.**
 
-Appalachian Dancing is an energetic and percussive form of dance that originated in the Appalachian Mountains of America and performed to Old-Time music.
+
+
 
 Restless Soles are an Appalachian dance side formed in 2009 who regularly perform around Derbyshire.
 
 You can find a list of [our up-coming dance outs here](shows.md):
 
 Ordinarily we practice from 8pm to 9:30 pm on Monday nights at [The West End Community Centre (DE22 3BL)](https://wecc.org.uk/) on Mackworth Road.
+
+To enquire about booking us, if you're interesting in joining you can contact us at contact@restless-soles.co.uk.
 
 You can listen or play along to some of our [music here](music.html)
 
