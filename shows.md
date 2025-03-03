@@ -1,14 +1,14 @@
 
 # Upcoming Shows
+<!---
 Nothing planned... Follow us on [Facebook](https://www.facebook.com/restlesssolesappalachian/) or [Bluesky](https://bsky.app/profile/restless-soles.bsky.social) for future announcements!
+--->
 
 
-<!--- --->Nothing planned...
 | Date | Event | Location | More Details |
 | --- | --- | --- | --- |
 | 18th May 2025 | Moira Canal Festival | Moira Furnace, Furnace Lane, Moira, DE12 6AT | https://www.moiracanalfestival.com/ |
 | 11th - 12th October | Derby Folk Festival | Derby City Centre | https://www.derbyfolkfestival.co.uk/|
-<!--- --->
 
 # Past Shows
 
